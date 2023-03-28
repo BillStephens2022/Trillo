@@ -2,7 +2,7 @@
 
   ## Description
 
-  Trillo is a sample travel website built using advanced CSS techniques including flexbox and animations.  The website features a responsive design with photos, user reviews and ratings, and animated buttons.
+  Trillo is a sample travel website built using advanced CSS / SCSS techniques including flexbox and animations.  The website features a responsive design with photos, user reviews and ratings, and animated buttons.
   ![screenshot](img/screenshot.png)
   
   ## Table of Contents
@@ -16,11 +16,11 @@
   
   ## Installation
   
-  deployed URL:
+  deployed URL:  https://billstephens2022.github.io/Trillo/
   
   ## Usage
   
-  deployed URL:
+  deployed URL:  https://billstephens2022.github.io/Trillo/
 
   ## License
 This application is covered under the MIT License.
@@ -37,3 +37,4 @@ This application is covered under the MIT License.
   GitHub user name: BillStephens2022<br>
   Link to GitHub profile: https://github.com/BillStephens2022<br>
   Email: stephensbill17@gmail.com
+  
